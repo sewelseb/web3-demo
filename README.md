@@ -2,11 +2,7 @@
 
 # First Node Website Tutorial Starter Files
 
-These are the starter files to accompany the tutorial for building a simple Node.js website with Express and Pug.
-
-You can [access the tutorial here](https://freshman.tech/learn-node).
-
-[Live demo](https://freshman-node.herokuapp.com/)
+Demo of Web3 on a node/express website
 
 ## Instructions
 1. Clone repo
